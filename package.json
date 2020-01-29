@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/Buchi95/shipping-service/issues"
   },
-  "homepage": "https://github.com/Buchi95/shipping-service#readme"
+  "homepage": "https://github.com/Buchi95/shipping-service#readme",
+  "devDependencies": {
+    "nock": "^11.7.2",
+    "sinon": "^8.1.1"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
