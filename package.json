@@ -25,6 +25,10 @@
     "nock": "^11.7.2",
     "sinon": "^8.1.1"
   },
+  "engines": {
+    "node": "11.4.0",
+    "npm": "6.9.0"
+  },
   "dependencies": {
     "axios": "^0.19.2",
     "express": "^4.17.1"
